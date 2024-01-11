@@ -1,4 +1,4 @@
-import Counter from "@/Components/ui/counter.js"
+import Counter from "@/Components/ui/counter.jsx"
 import Header from "@/Components/ui/header"
 // import Boton from "@/Components/ui/boton"
 

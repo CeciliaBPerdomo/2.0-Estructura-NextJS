@@ -1,6 +1,6 @@
-'use client'
-import React, { useState } from 'react'
-import Boton from './boton'
+"use client";
+import { useState } from "react"
+import Boton from "./boton.jsx"
 
 const Counter = () => {
     const [counter, setCounter] = useState(1)
