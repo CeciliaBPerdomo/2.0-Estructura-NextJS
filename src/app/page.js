@@ -1,4 +1,5 @@
 import Counter from "@/Components/ui/counter.jsx"
+import Footer from "@/Components/ui/footer"
 import Header from "@/Components/ui/header"
 // import Boton from "@/Components/ui/boton"
 import Image from "next/image" //para poder importar imagenes
@@ -59,6 +60,8 @@ export default function Home() {
         priority
       />
     </main>
+    <br />
+    <Footer />
     </>
   )
 }
